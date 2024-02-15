@@ -5,6 +5,17 @@ Deepfake technology has increasingly become a tool for creating highly realistic
 The alarming capability of deepfake technology to produce believable content from minimal real-life input (one image or mere seconds of audio) further underscores the urgency of addressing this issue. As such technologies continue to evolve at a rapid pace, outstripping efforts to regulate their use or implement effective countermeasures on social media platforms, there is a critical need for proactive solutions that empower individuals to protect their digital identities.
 
 
+
+Here a single image from a (fake) Social profile is used to create a deepfake video from a [popular gif](https://media.giphy.com/media/12XMGIWtrHBl5e/giphy.gif)
+
+![[Balikabakra_cropped@0.5x.png]]
+
+
+***Hey Bali, do you want a promotion?***
+
+![[ezgif-2-44af65206a.gif]]
+
+
 ## Proposed Solution: Deepmask
 
 Deepmask is an innovative approach that leverages AI technology not as a tool for invasion of privacy but as a means of defense against potential abuses of digital identity through deepfakes. By enabling users to anonymize their personal information and create virtual personas or avatars with unique faces, styles, and voices, Deepmask provides a layer of protection designed to prevent individuals' likenesses from being exploited in deepfake creations.
