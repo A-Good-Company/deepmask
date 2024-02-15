@@ -8,12 +8,12 @@ The alarming capability of deepfake technology to produce believable content fro
 
 Here a single image from a (fake) Social profile is used to create a deepfake video from a [popular gif](https://media.giphy.com/media/12XMGIWtrHBl5e/giphy.gif)
 
-![[Balikabakra_cropped@0.5x.png]]
-
+<img src="resources/Balikabakra_cropped@0.5x.png">
 
 ***Hey Bali, do you want a promotion?***
 
-![[ezgif-2-44af65206a.gif]]
+
+<img src="resources/ezgif-2-44af65206a.gif">
 
 
 ## Proposed Solution: Deepmask
