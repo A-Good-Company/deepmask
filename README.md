@@ -14,6 +14,7 @@ Deepmask is an innovative approach that leverages AI technology not as a tool fo
 - **Face Generation:** Utilizing [Stable Diffusion](https://github.com/AUTOMATIC1111/stable-diffusion-webui) with **ControlNet** enabled,  and set to **ControlType**:  `OpenPose_faceonly` for generating virtual faces.
 - **Face Swap:** Implementing [ReActor](https://github.com/Gourieff/sd-webui-reactor) plugin for swapping faces between images or videos.
 - **Body Swap:** Employing [Segment Anything](https://github.com/continue-revolution/sd-webui-segment-anything) (SAM) model for body selection and using Stable Diffusion to anonymize or swap bodies within content.
+- **Voice Swap:** [WhisperX](https://github.com/m-bain/whisperX) for text detection, [TortoiseTTS](https://github.com/neonbjb/tortoise-tts) for Speech generation
 
 ### Milestones:
 
