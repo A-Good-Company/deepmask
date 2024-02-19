@@ -20,6 +20,15 @@ Here a single image from a (fake) Social profile is used to create a deepfake vi
 
 Deepmask is an innovative approach that leverages AI technology not as a tool for invasion of privacy but as a means of defense against potential abuses of digital identity through deepfakes. By enabling users to anonymize their personal information and create virtual personas or avatars with unique faces, styles, and voices, Deepmask provides a layer of protection designed to prevent individuals' likenesses from being exploited in deepfake creations.
 
+||Professional Profile|Social Profile|
+|-|-|-|
+| Private images |<img src="https://raw.githubusercontent.com/A-Good-Company/deepmask/master/resources/Pasted%20image%2020240218234920.png" width="350px"> |<img src="https://raw.githubusercontent.com/A-Good-Company/deepmask/master/resources/Pasted%20image%2020240218235314.png" width="350px">|
+| <img src="https://raw.githubusercontent.com/A-Good-Company/deepmask/master/resources/Pasted%20image%2020240218231839.png" width="350px"> | <img src="https://github.com/A-Good-Company/deepmask/blob/master/resources/Pasted%20image%2020240219000008.png" width="350px"> |<img src="https://raw.githubusercontent.com/A-Good-Company/deepmask/master/resources/Pasted%20image%2020240219000408.png" width="350px">|
+|OpenPose Face generator template|Prompt: a good young indian office employee, black hair, male |Prompt: a funky young indian party animal, black hair, male|
+| Deepmasked images, with non users anonymized <br><img src="https://raw.githubusercontent.com/A-Good-Company/deepmask/master/resources/Pasted%20image%2020240219000551.png" width="150px"> |<img src="https://raw.githubusercontent.com/A-Good-Company/deepmask/master/resources/Pasted%20image%2020240219001324.png" width="350px"> |<img src="https://raw.githubusercontent.com/A-Good-Company/deepmask/master/resources/Pasted%20image%2020240219000908.png" width="350px">|
+
+
+
 ### Technology Stack:
 
 - **Face Generation:** Utilizing [Stable Diffusion](https://github.com/AUTOMATIC1111/stable-diffusion-webui) with **ControlNet** enabled,  and set to **ControlType**:  `OpenPose_faceonly` for generating virtual faces.
@@ -47,3 +56,5 @@ Deepmask serves a wide array of users and scenarios, offering vital solutions in
 While Deepmask presents a promising solution against the misuse of deepfake technology, several challenges remain. These include ensuring the accessibility of the technology for non-technical users, maintaining the balance between anonymity and authenticity, and continuously adapting to evolving deepfake technologies.
 
 Future developments could explore integrating more advanced AI techniques for even more realistic voice and face generation, improving user interfaces for easier customization of avatars, and expanding partnerships with social media platforms for broader implementation of anonymization features. Additionally, ethical considerations around the use of such technologies must be addressed continuously to ensure they are used responsibly.
+
+[Deepmask Roadmap](https://github.com/users/A-Good-Company/projects/5)
