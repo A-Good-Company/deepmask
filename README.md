@@ -20,6 +20,9 @@ Here a single image from a (fake) Social profile is used to create a deepfake vi
 
 Deepmask is an innovative approach that leverages AI technology not as a tool for invasion of privacy but as a means of defense against potential abuses of digital identity through deepfakes. By enabling users to anonymize their personal information and create virtual personas or avatars with unique faces, styles, and voices, Deepmask provides a layer of protection designed to prevent individuals' likenesses from being exploited in deepfake creations.
 
+### Try the Alpha Version
+Check out our alpha release: [Deepmask Alpha](https://deepmask-backend-886097756396.us-central1.run.app)
+
 ||Professional Profile|Social Profile|
 |-|-|-|
 | Private images |<img src="https://raw.githubusercontent.com/A-Good-Company/deepmask/master/resources/Pasted%20image%2020240218234920.png" width="350px"> |<img src="https://raw.githubusercontent.com/A-Good-Company/deepmask/master/resources/Pasted%20image%2020240218235314.png" width="350px">|
